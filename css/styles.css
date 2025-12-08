@@ -1,0 +1,17 @@
+.downloads .plan-name {
+    color: #212121;
+    font-size: 14px;
+    background-color: #fafafa;
+    line-height: 1.5;
+    
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Oswald", sans-serif
+}
+.page-title     {
+    font-family: "Oswald", sans-serif;
+}
+ul {
+    list-style-type: none;
+}
