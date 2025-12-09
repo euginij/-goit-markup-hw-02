@@ -1,17 +1,121 @@
-.downloads .plan-name {
-    color: #212121;
-    font-size: 14px;
-    background-color: #fafafa;
-    line-height: 1.5;
-    
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: "Oswald", sans-serif
-}
-.page-title     {
-    font-family: "Oswald", sans-serif;
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #fff;
+  color: #2d2e41;
 }
 ul {
-    list-style-type: none;
+  list-style: none;
+}
+.navigation-studio {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-decoration-line: none;
+}
+.navigation-studio:hover {
+  color: #404bbf;
+}
+.navigation-studio:active {
+  text-decoration-line: underline;
+}
+.navigation {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+  text-decoration-line: none;
+}
+.navigation:hover {
+  color: #404bbf;
+}
+span {
+  color: 4D5AE5;
+}
+
+.webstudio-logo {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 117%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+  text-decoration-line: none;
+}
+span {
+  color: #4d5ae5;
+}
+.contacts {
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+  color: #434455;
+  text-decoration-line: none;
+}
+.contacts:hover {
+  color: #404bbf;
+}
+.effective-solutions {
+  background-color: #2e2f42;
+}
+.efective-solutions-titles {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 107%;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+button {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  font-family: "Roboto", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0.02em;
+}
+button:hover {
+  background-color: #404bbf;
+}
+.features-title {
+  font-weight: 500;
+font-size: 20px;
+line-height: 120%;
+letter-spacing: 0.02em;
+}
+.team {
+  background-color: #f4f4fd;
+}
+
+.team-foto {
+  background-color: #fff;
+}
+.team-name {
+  text-align: center;
+}
+.team-name-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2d2e41;
+}
+.podval {
+  background-color: #2d2e41;
+}
+.webstudio-logo-podval {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 117%;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #f4f4fd;
+  text-decoration-line: none;
+}
+.podval-text {
+  color: #f4f4fd;
 }
