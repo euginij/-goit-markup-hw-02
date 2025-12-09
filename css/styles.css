@@ -32,7 +32,7 @@ ul {
   color: #404bbf;
 }
 span {
-  color: 4D5AE5;
+  color: #4D5AE5;
 }
 
 .webstudio-logo {
@@ -82,9 +82,9 @@ button:hover {
 }
 .features-title {
   font-weight: 500;
-font-size: 20px;
-line-height: 120%;
-letter-spacing: 0.02em;
+  font-size: 20px;
+  line-height: 120%;
+  letter-spacing: 0.02em;
 }
 .team {
   background-color: #f4f4fd;
