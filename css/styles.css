@@ -44,9 +44,6 @@ span {
   color: #2e2f42;
   text-decoration-line: none;
 }
-span {
-  color: #4d5ae5;
-}
 .contacts {
   font-size: 16px;
   line-height: 150%;
@@ -76,6 +73,7 @@ button {
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.02em;
+  cursor: pointer;
 }
 button:hover {
   background-color: #404bbf;
