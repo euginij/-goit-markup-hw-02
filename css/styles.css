@@ -95,7 +95,7 @@ button:focus {
   line-height: 1.1;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #2d2e41;
+  color: #2e2f42;
 }
 .features-title {
   font-weight: 500;
@@ -113,17 +113,24 @@ button:focus {
 .team {
   background-color: #f4f4fd;
 }
-.team-name {
+.team-name-list {
   font-weight: 700;
-  font-size: 36px;
-  line-height: 1.1;
+font-size: 36px;
+line-height: 111%;
+letter-spacing: 0.02em;
+text-align: center;
+color: #2e2f42;
+
+}
+
+.team-name {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #2d2e41;
 }
-.team-position {
-  text-align: center;
-}
+
 .team-list {
   background-color: #fff;
 }
@@ -140,7 +147,7 @@ button:focus {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: #2d2e41;
+  color: #2e2f42;
 }
 .portfolio-name {
   font-weight: 700;
@@ -148,16 +155,16 @@ button:focus {
   line-height: 1.1;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #2d2e41;
+  color: #2e2f42;
 }
 .portfolio-list {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.50;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .futer-fone {
-  background-color: #2d2e41;
+  background-color: #2e2f42;
 }
 .webstudio-logo-futer {
   font-family: "Raleway", sans-serif;
