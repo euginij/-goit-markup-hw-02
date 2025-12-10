@@ -140,6 +140,7 @@ button:focus {
   font-size: 20px;
   line-height: 120%;
   letter-spacing: 0.02em;
+  color: #2d2e41;
 }
 .portfolio-name {
   font-weight: 700;
