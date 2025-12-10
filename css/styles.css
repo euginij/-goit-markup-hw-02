@@ -10,7 +10,7 @@ ul {
 .navigation-studio {
   font-weight: 500;
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-decoration-line: none;
@@ -27,7 +27,7 @@ ul {
 .navigation {
   font-weight: 500;
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
   text-decoration-line: none;
@@ -41,7 +41,7 @@ ul {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 117%;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -56,7 +56,7 @@ ul {
 
 .contacts {
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
   text-decoration-line: none;
@@ -72,7 +72,7 @@ ul {
   color: #ffffff;
   font-weight: 700;
   font-size: 56px;
-  line-height: 107%;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
 }
@@ -81,7 +81,7 @@ ul {
   color: #ffffff;
   font-weight: 500;
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.5;
   letter-spacing: 0.04em;
   cursor: pointer;
 }
@@ -92,7 +92,7 @@ button:focus {
 .features-name {
   font-weight: 700;
   font-size: 36px;
-  line-height: 111%;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2d2e41;
@@ -100,14 +100,14 @@ button:focus {
 .features-title {
   font-weight: 500;
   font-size: 20px;
-  line-height: 120%;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
 .features-list {
   font-weight: 400;
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.5;
   letter-spacing: 0.02em;
 }
 .team {
@@ -116,7 +116,7 @@ button:focus {
 .team-name {
   font-weight: 700;
   font-size: 36px;
-  line-height: 111%;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2d2e41;
@@ -130,7 +130,7 @@ button:focus {
 .team-name-title {
   font-weight: 500;
   font-size: 20px;
-  line-height: 120%;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
@@ -138,14 +138,14 @@ button:focus {
 .portfolio-title {
   font-weight: 500;
   font-size: 20px;
-  line-height: 120%;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2d2e41;
 }
 .portfolio-name {
   font-weight: 700;
   font-size: 36px;
-  line-height: 111%;
+  line-height: 1.1;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2d2e41;
@@ -153,7 +153,7 @@ button:focus {
 .portfolio-list {
   font-weight: 400;
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.50;
   letter-spacing: 0.02em;
 }
 .futer-fone {
@@ -163,7 +163,7 @@ button:focus {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
-  line-height: 117%;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
@@ -175,7 +175,7 @@ button:focus {
 .futer-text {
   font-weight: 400;
   font-size: 16px;
-  line-height: 150%;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
