@@ -15,7 +15,8 @@ ul {
   color: #2e2f42;
   text-decoration-line: none;
 }
-.navigation-studio:hover {
+.navigation-studio:hover,
+.navigation-studio:focus {
   color: #404bbf;
 }
 
@@ -31,7 +32,8 @@ ul {
   color: #2e2f42;
   text-decoration-line: none;
 }
-.navigation:hover {
+.navigation:hover,
+.navigation:focus {
   color: #404bbf;
 }
 
@@ -59,7 +61,8 @@ ul {
   color: #434455;
   text-decoration-line: none;
 }
-.contacts:hover {
+.contacts:hover,
+.contacts:focus {
   color: #404bbf;
 }
 .effective-solutions {
