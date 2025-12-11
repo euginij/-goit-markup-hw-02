@@ -20,10 +20,6 @@ ul {
   color: #404bbf;
 }
 
-.navigation-studio {
-  text-decoration-line: underline;
-}
-
 .navigation {
   font-weight: 500;
   font-size: 16px;
@@ -86,13 +82,13 @@ ul {
   cursor: pointer;
 }
 .button-title:hover,
-button:focus {
+.button-title:focus {
   background-color: #404bbf;
 }
 .features-name {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
@@ -116,7 +112,7 @@ button:focus {
 .team-name-list {
   font-weight: 700;
 font-size: 36px;
-line-height: 1.1;
+line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
@@ -152,7 +148,7 @@ color: #2e2f42;
 .portfolio-name {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.1;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
